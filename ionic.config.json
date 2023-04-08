@@ -1,0 +1,8 @@
+{
+  "name": "PointOfSale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6cf08b58"
+}
